@@ -1,0 +1,10 @@
+Peter0 LAC0510 carp 5 carp 3 catfish 96
+Peter1 KKX0512
+Peter2 KKX0512
+Peter3 LAC0516 carp 45 carp 53 catfish 9
+Peter4 LAC0516
+Peter4 JCC0517
+Peter6 ERC0518 carp 45 carp 7 catfish 96
+Peter7 ERC0518 carp 45 carp 53 catfish 96
+
+

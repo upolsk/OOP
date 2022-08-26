@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1653089654 source:c:\users\user\onedrive\Рабочий стол\oop\assignment3\main.cpp
+	<iostream>
+	"library/summation.hpp"
+	<sstream>
+	"library/stringstreamenumerator.hpp"
+	"library/maxsearch.hpp"
+	"library/seqinfileenumerator.hpp"
+	"library/counting.hpp"
+
+1652704606 c:\users\user\onedrive\Рабочий стол\oop\assignment3\library\summation.hpp
+	"procedure.hpp"
+	<iostream>
+
+1652704606 c:\users\user\onedrive\Рабочий стол\oop\assignment3\library\procedure.hpp
+	<cstddef>
+	"enumerator.hpp"
+	<iostream>
+	<vector>
+
+1652704606 c:\users\user\onedrive\Рабочий стол\oop\assignment3\library\enumerator.hpp
+
+1652704606 c:\users\user\onedrive\Рабочий стол\oop\assignment3\library\stringstreamenumerator.hpp
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+
+1652704606 c:\users\user\onedrive\Рабочий стол\oop\assignment3\library\maxsearch.hpp
+	"procedure.hpp"
+
+1652704606 c:\users\user\onedrive\Рабочий стол\oop\assignment3\library\seqinfileenumerator.hpp
+	<fstream>
+	<typeinfo>
+	<sstream>
+	"enumerator.hpp"
+
+1652704606 c:\users\user\onedrive\Рабочий стол\oop\assignment3\library\counting.hpp
+	"summation.hpp"
+
